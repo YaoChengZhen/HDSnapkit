@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'HDSnapkit_Example' do
+  pod 'HDSnapkit', :path => '../'
+
+  target 'HDSnapkit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
