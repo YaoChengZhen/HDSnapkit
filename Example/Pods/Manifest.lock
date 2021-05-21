@@ -1,0 +1,16 @@
+PODS:
+  - HDSnapkit (0.1.0)
+
+DEPENDENCIES:
+  - HDSnapkit (from `../`)
+
+EXTERNAL SOURCES:
+  HDSnapkit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HDSnapkit: 733f277582f590d6fe1ca67f825a94d545bd5e56
+
+PODFILE CHECKSUM: fbfee84422455e3943f44a055594bd96c1b93d55
+
+COCOAPODS: 1.10.1

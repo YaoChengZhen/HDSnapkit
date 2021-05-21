@@ -1,0 +1,6 @@
+framework module HDSnapkit {
+  umbrella header "HDSnapkit-umbrella.h"
+
+  export *
+  module * { export * }
+}
